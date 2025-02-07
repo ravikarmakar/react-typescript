@@ -48,3 +48,13 @@ export default tseslint.config({
   },
 })
 ```
+
+<!-- Here some sort of UI library -->
+
+1. DaisyUI
+2. Radix-ui
+3. shadcn-ui
+
+<!-- Form Vlaidation -->
+
+1. React-Hook-Form

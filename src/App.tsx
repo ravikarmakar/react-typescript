@@ -1,9 +1,9 @@
-import ReducerCounter from "./useReducer/ReducerCounter";
+import ReactHookForm from "./react-hook-form/ReactHookForm";
 
 const App = () => {
   return (
     <>
-      <ReducerCounter />
+      <ReactHookForm />
     </>
   );
 };
